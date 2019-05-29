@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="Browser" value="IE"/>
+  <test name="ChromeTest">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="GridConcepts.SeleniumGridsTests"/>
+    </classes>
+  </test> <!-- ChromeTest -->
+  <test name="FirefoxTest">
+    <parameter name="Browser" value="Firefox"/>
+    <classes>
+      <class name="GridConcepts.SeleniumGridsTests"/>
+    </classes>
+  </test> <!-- FirefoxTest -->
+  <test name="IETest">
+    <parameter name="Browser" value="IE"/>
+    <classes>
+      <class name="GridConcepts.SeleniumGridsTests"/>
+    </classes>
+  </test> <!-- IETest -->
+  <test name="FirefoxTest(failed)" parallel="tests">
+    <parameter name="Browser" value="Firefox"/>
+    <classes>
+      <class name="GridConcepts.SeleniumGridsTests">
+        <methods>
+          <include name="mailTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- GridConcepts.SeleniumGridsTests -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+  <test name="IETest(failed)" parallel="tests">
+    <parameter name="Browser" value="IE"/>
+    <classes>
+      <class name="GridConcepts.SeleniumGridsTests">
+        <methods>
+          <include name="mailTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- GridConcepts.SeleniumGridsTests -->
+    </classes>
+  </test> <!-- IETest(failed) -->
+  <test name="ChromeTest(failed)" parallel="tests">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="GridConcepts.SeleniumGridsTests">
+        <methods>
+          <include name="mailTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- GridConcepts.SeleniumGridsTests -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

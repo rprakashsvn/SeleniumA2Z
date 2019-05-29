@@ -1,0 +1,204 @@
+2019-04-11 13:40:40,169 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 13:40:40,193 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 13:40:40,977 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 13:42:18,810 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 13:42:18,834 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 13:42:19,577 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 13:45:46,755 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 13:45:46,789 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 13:45:52,499 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 13:47:18,223 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 13:47:18,249 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 13:47:18,250 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 13:47:24,038 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 13:47:53,001 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 13:47:53,027 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 13:47:53,028 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 13:47:58,749 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:35:40,927 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 15:35:41,014 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:35:41,014 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:35:46,834 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:36:18,131 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 15:36:18,187 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:36:18,187 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:36:25,230 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:36:36,097 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 15:36:36,179 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:36:36,179 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:36:41,729 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:43:12,973 [TestNG] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 15:43:13,008 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:43:13,009 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:43:18,592 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:43:20,646 [TestNG] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 15:43:20,656 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:43:20,656 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:43:26,421 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:43:32,229 [TestNG] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-11 15:43:32,244 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:43:32,244 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:43:38,720 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:47:36,058 [TestNG] INFO SeleniumA2Z - IEBrowser launched successfully.!
+2019-04-11 15:47:36,092 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:47:36,092 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:47:40,005 [TestNG] INFO SeleniumA2Z - ChromeBrowser launched successfully.!
+2019-04-11 15:47:40,012 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:47:40,012 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:47:41,677 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:47:41,677 [TestNG] INFO SeleniumA2Z - nullBrowser closed successfully.!
+2019-04-11 15:47:45,948 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:47:45,949 [TestNG] INFO SeleniumA2Z - nullBrowser closed successfully.!
+2019-04-11 15:47:49,035 [TestNG] INFO SeleniumA2Z - FirefoxBrowser launched successfully.!
+2019-04-11 15:47:49,043 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:47:49,046 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:47:55,523 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:47:55,524 [TestNG] INFO SeleniumA2Z - nullBrowser closed successfully.!
+2019-04-11 15:49:42,174 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-11 15:49:42,206 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:49:42,206 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:49:44,798 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:49:44,815 [TestNG] INFO SeleniumA2Z - Chrome Browser launched successfully.!
+2019-04-11 15:49:44,824 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:49:44,824 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:49:47,572 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:49:51,121 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-11 15:49:51,127 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:49:51,127 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:49:54,733 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:53:10,270 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-11 15:53:10,301 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:53:10,301 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:53:12,547 [TestNG] INFO SeleniumA2Z - Chrome Browser launched successfully.!
+2019-04-11 15:53:12,555 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:53:12,555 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:53:12,835 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:53:15,302 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 15:53:19,086 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-11 15:53:19,093 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 15:53:19,094 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 15:53:22,919 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:11:51,420 [main] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-11 18:11:51,438 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:11:51,438 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:11:53,565 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:27:26,793 [main] INFO SeleniumA2Z - firefox Browser launched successfully.!
+2019-04-11 18:27:26,811 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:27:26,811 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:27:28,870 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:37:11,565 [main] INFO SeleniumA2Z - ie Browser launched successfully.!
+2019-04-11 18:37:11,930 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:37:11,931 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:37:14,064 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:39:58,858 [TestNG] INFO SeleniumA2Z - ie Browser launched successfully.!
+2019-04-11 18:39:58,884 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:39:58,884 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:40:00,918 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:40:06,558 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-11 18:40:06,576 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:40:06,577 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:40:06,613 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-11 18:40:06,627 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:40:06,627 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:40:08,646 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:40:09,416 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:41:00,849 [TestNG] INFO SeleniumA2Z - ie Browser launched successfully.!
+2019-04-11 18:41:00,907 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:41:00,907 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:41:03,049 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:41:05,018 [TestNG] INFO SeleniumA2Z - firefox Browser launched successfully.!
+2019-04-11 18:41:05,039 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:41:05,039 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:41:06,081 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-11 18:41:06,092 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:41:06,092 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:41:07,128 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:41:08,183 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:42:06,791 [TestNG] INFO SeleniumA2Z - firefox Browser launched successfully.!
+2019-04-11 18:42:06,809 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:42:06,809 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:42:08,875 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:43:21,799 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-11 18:43:21,826 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:43:21,827 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:43:23,863 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:43:25,433 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-11 18:43:25,443 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:43:25,444 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:43:27,517 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:45:07,093 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-11 18:45:07,116 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:45:07,116 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:45:09,019 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-11 18:45:09,028 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:45:09,028 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:45:09,276 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:45:11,095 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:45:52,669 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-11 18:45:52,706 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:45:52,706 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:45:54,848 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:45:57,224 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-11 18:45:57,237 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:45:57,237 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:45:58,242 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-11 18:45:58,254 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:45:58,254 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:45:59,308 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:46:00,317 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:50:51,027 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-11 18:50:57,672 [TestNG] INFO SeleniumA2Z - Text Entered
+2019-04-11 18:50:58,232 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-11 18:50:58,398 [TestNG] INFO SeleniumA2Z - Text Entered
+2019-04-11 18:50:59,218 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-11 18:50:59,520 [TestNG] INFO SeleniumA2Z - Text Entered
+2019-04-11 18:51:00,285 [TestNG] INFO SeleniumA2Z - Clicked Google Search Button
+2019-04-11 18:51:00,298 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:51:12,615 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-11 18:51:12,626 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:51:12,626 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:51:13,132 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-11 18:51:13,143 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 18:51:13,143 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 18:51:14,706 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 18:51:15,467 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-11 19:21:07,299 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-11 19:21:07,317 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-11 19:21:07,317 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-11 19:21:09,347 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-12 11:09:27,851 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-12 11:09:36,669 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-12 11:09:45,685 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-12 11:09:45,891 [TestNG] INFO SeleniumA2Z - Text Entered
+2019-04-12 11:09:47,100 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-12 11:09:47,505 [TestNG] INFO SeleniumA2Z - Clicked Google Search Button
+2019-04-12 11:09:47,519 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:09:57,449 [TestNG] INFO SeleniumA2Z - Text Entered
+2019-04-12 11:09:58,023 [TestNG] INFO SeleniumA2Z - chrome Browser launched successfully.!
+2019-04-12 11:09:58,041 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-12 11:09:58,041 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:09:58,057 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-12 11:09:58,057 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:10:00,425 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-12 11:10:03,382 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-12 11:10:26,029 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-12 11:10:33,021 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-12 11:10:33,219 [TestNG] INFO SeleniumA2Z - Text Entered
+2019-04-12 11:10:34,523 [TestNG] INFO SeleniumA2Z - Clicked Google Search Button
+2019-04-12 11:10:34,534 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:10:40,930 [TestNG] INFO SeleniumA2Z - Firefox Browser launched successfully.!
+2019-04-12 11:10:40,941 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-12 11:10:40,942 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:10:40,946 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-12 11:10:40,946 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:10:43,005 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-12 11:10:46,781 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-12 11:33:09,602 [main] INFO SeleniumA2Z - Browser launched successfully.!
+2019-04-12 11:33:09,628 [main] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-12 11:33:09,628 [main] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:33:15,358 [main] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-12 11:40:03,084 [TestNG] INFO SeleniumA2Z - IE Browser launched successfully.!
+2019-04-12 11:40:03,126 [TestNG] INFO SeleniumA2Z - Verify Page Title Is : Google
+2019-04-12 11:40:03,126 [TestNG] INFO SeleniumA2Z - Title Matched, Test Case Passed
+2019-04-12 11:40:05,278 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!
+2019-04-12 11:40:07,815 [TestNG] INFO SeleniumA2Z - Browser closed successfully.!

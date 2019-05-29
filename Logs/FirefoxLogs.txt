@@ -1,0 +1,28 @@
+1555047561618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\prakash.r\\AppData\\Local\\Temp\\rust_mozprofile.u38WJbJC60RS"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\prakash.r\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\prakash.r\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\prakash.r\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\prakash.r\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18360, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1555047615911	Marionette	INFO	Listening on port 13460
+1555047618013	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64[GFX 1]v:= 
+Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable tUno arbead lVeR  Pato tread VR Pathh Reg Regiiststry fry fromrom C:\User sC:\U\spraekrass\hpr.arka\Apsph.r\ADpapData\Locatal\openvr\\Locopenvraplaths.\vorppeantvhr
+\openvrpaths.vrpath
+[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18092, Chrome_ChildThread] WARNING:[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22572, Chrome_ChildThrea*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15652, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
