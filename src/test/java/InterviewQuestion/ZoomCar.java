@@ -58,7 +58,6 @@ public class ZoomCar {
 	}
 
 	public static void lowPrice() {
-
 		System.out.println("*****Price List*****");
 		List<WebElement> list = driver.findElements(By.xpath("//div[@class='price']"));
 		System.out.println("Total Cars List Is : " + list.size());
@@ -85,6 +84,5 @@ public class ZoomCar {
 
 		String nameOfCar = driver.findElement(By.xpath("(//div[@class='details'])[" + getKeyNumber + "]")).getText();
 		System.out.println("Name of the Car is : " + nameOfCar);
-
 	}
 }

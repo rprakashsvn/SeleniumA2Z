@@ -86,5 +86,7 @@
 	<classpathentry kind="lib" path="D:/Selenium/Jars/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium/Jars/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/sqljdbc42.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
