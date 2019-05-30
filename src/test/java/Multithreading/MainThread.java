@@ -6,5 +6,8 @@ public class MainThread {
 		Thread t = Thread.currentThread();
 		t.setName("MainThread");
 		System.out.println("Name of thread is : " + t);
+
+		long rand = System.currentTimeMillis();
+		System.out.println(rand);
 	}
 }
