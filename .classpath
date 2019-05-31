@@ -88,5 +88,7 @@
 	<classpathentry kind="lib" path="C:/Program Files (x86)"/>
 	<classpathentry kind="lib" path="D:/Selenium/Jars/mysql-connector.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium/Jars/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/Reading PDF Files Jars/fontbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/Reading PDF Files Jars/pdfbox-2.0.12.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
