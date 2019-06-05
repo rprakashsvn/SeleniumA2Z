@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GroupSuite" parallel="false">
+	<test name="GroupTest"> <!-- parallel="none" -->
+
+		<groups>
+
+			<define name="AllGroups">
+				<include name="Sanity" />
+				<include name="Smoke" />
+				<include name="Regression" />
+			</define>
+			<run>
+				<include name="AllGroups" />
+			</run>
+
+		</groups>
+		<classes>
+			<class name="TestNG.TestNGGroupsConcetps" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+<!-- Sanity Smoke Regression -->

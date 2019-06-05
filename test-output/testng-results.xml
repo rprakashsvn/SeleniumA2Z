@@ -1,52 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="1" failed="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14" started-at="2019-05-31T07:14:52Z" finished-at="2019-05-31T07:14:52Z">
+  <suite name="GroupSuite" duration-ms="26" started-at="2019-06-04T08:39:39Z" finished-at="2019-06-04T08:39:39Z">
     <groups>
+      <group name="Sanity">
+        <method signature="TestNGGroupsConcetps.Test1()[pri:0, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test1" class="TestNG.TestNGGroupsConcetps"/>
+        <method signature="TestNGGroupsConcetps.Test2()[pri:1, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test2" class="TestNG.TestNGGroupsConcetps"/>
+        <method signature="TestNGGroupsConcetps.Test3()[pri:2, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test3" class="TestNG.TestNGGroupsConcetps"/>
+        <method signature="TestNGGroupsConcetps.Test4()[pri:3, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test4" class="TestNG.TestNGGroupsConcetps"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TestNGGroupsConcetps.Test4()[pri:3, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test4" class="TestNG.TestNGGroupsConcetps"/>
+        <method signature="TestNGGroupsConcetps.Test5()[pri:4, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test5" class="TestNG.TestNGGroupsConcetps"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="TestNGGroupsConcetps.Test2()[pri:1, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test2" class="TestNG.TestNGGroupsConcetps"/>
+        <method signature="TestNGGroupsConcetps.Test3()[pri:2, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test3" class="TestNG.TestNGGroupsConcetps"/>
+      </group> <!-- Smoke -->
     </groups>
-    <test name="Default test" duration-ms="14" started-at="2019-05-31T07:14:52Z" finished-at="2019-05-31T07:14:52Z">
-      <class name="TestNG.ParametersConcepts">
-        <test-method status="SKIP" signature="launchBrowsers(java.lang.String)[pri:0, instance:TestNG.ParametersConcepts@6e2eef]" name="launchBrowsers" duration-ms="0" started-at="2019-05-31T12:44:52Z" finished-at="2019-05-31T12:44:52Z">
-          <exception class="org.testng.TestNGException">
-            <message>
-              <![CDATA[
-Parameter 'BrowserName' is required by @Test on method launchBrowsers but has not been marked @Optional or defined
-in C:\Users\prakash.r\AppData\Local\Temp\testng-eclipse-1383956364\testng-customsuite.xml]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.TestNGException: 
-Parameter 'BrowserName' is required by @Test on method launchBrowsers but has not been marked @Optional or defined
-in C:\Users\prakash.r\AppData\Local\Temp\testng-eclipse-1383956364\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParameters(Parameters.java:154)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:361)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:451)
-	at org.testng.internal.Invoker.handleParameters(Invoker.java:1276)
-	at org.testng.internal.Invoker.createParameters(Invoker.java:991)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1081)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:113)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.TestNGException -->
+    <test name="GroupTest" duration-ms="26" started-at="2019-06-04T08:39:39Z" finished-at="2019-06-04T08:39:39Z">
+      <class name="TestNG.TestNGGroupsConcetps">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test1" duration-ms="11" started-at="2019-06-04T14:09:39Z" finished-at="2019-06-04T14:09:39Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchBrowsers -->
-      </class> <!-- TestNG.ParametersConcepts -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:1, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test2" duration-ms="1" started-at="2019-06-04T14:09:39Z" finished-at="2019-06-04T14:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:2, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test3" duration-ms="1" started-at="2019-06-04T14:09:39Z" finished-at="2019-06-04T14:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="Test4()[pri:3, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test4" duration-ms="1" started-at="2019-06-04T14:09:39Z" finished-at="2019-06-04T14:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="Test5()[pri:4, instance:TestNG.TestNGGroupsConcetps@1bb07ed]" name="Test5" duration-ms="1" started-at="2019-06-04T14:09:39Z" finished-at="2019-06-04T14:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+      </class> <!-- TestNG.TestNGGroupsConcetps -->
+    </test> <!-- GroupTest -->
+  </suite> <!-- GroupSuite -->
 </testng-results>

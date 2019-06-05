@@ -1,4 +1,4 @@
-package Basics;
+/*package Basics;
 
 import java.io.IOException;
 
@@ -38,3 +38,4 @@ public class ProxySettings {
 		System.out.println("Check your webdriver driver Instance's proxy setttings.");
 	}
 }
+*/

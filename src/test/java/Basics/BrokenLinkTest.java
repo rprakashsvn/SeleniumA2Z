@@ -37,8 +37,7 @@ public class BrokenLinkTest {
 		List<WebElement> urlList = driver.findElements(By.tagName("a"));
 		System.out.println("Total URL's In WebPage : " + urlList.size());
 
-		for (int i = 0; i < urlList.size(); i++) 
-		{
+		for (int i = 0; i < urlList.size(); i++) {
 			String listURL = urlList.get(i).getAttribute("href");
 			if (listURL.startsWith(testurl) && !listURL.startsWith("java")) {
 				URL myURL = new URL(listURL);
@@ -46,6 +45,7 @@ public class BrokenLinkTest {
 				httpConnection.setConnectTimeout(2000);
 				httpConnection.connect();
 				statuscode = httpConnection.getResponseCode();
+
 				if (statuscode == 200) {
 					System.out.println("URL & Status : " + myURL + " --> " + statuscode + " --> " + "Valid URL");
 				} else {
